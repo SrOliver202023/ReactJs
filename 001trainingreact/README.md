@@ -1,6 +1,5 @@
 ## Todo List básico
-#
-#### Para aprender React & Hooks 
+### Para aprender React & Hooks 
 > #### Conceitos utilizados:
 * useState
 * setState
